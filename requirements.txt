@@ -1,0 +1,11 @@
+# Capstone: Google ADK + Gemini + A2A
+google-adk[a2a,mcp]>=2.13
+matplotlib>=3.8
+requests>=2.31
+python-dotenv>=1.0
+streamlit>=1.40
+
+# Legacy LangGraph skeleton (multiagent/, main.py)
+langchain>=1.0
+langgraph>=1.0
+langchain-groq>=1.0
